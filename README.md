@@ -45,5 +45,7 @@ Please click on the following link to see my other works in GitHub: https://gith
 
 My email address is joshuakuhn2022@u.northwestern.edu. Please reach out to me if you have any questions regarding the projects or professional oppurtunities.
 
-Example Video: chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/445a4bb2-763e-4d17-yfbe-54bab522eb83
+Example Video: 
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/445a4bb2-763e-4d17-yfbe-54bab522eb83
+
 
