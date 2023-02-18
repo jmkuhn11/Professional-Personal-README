@@ -1,8 +1,8 @@
 
 
-# Personal Portfolio 
+# Professional Personal README 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+ 
 
 ## Table of Contents
 
@@ -17,27 +17,27 @@
 
 ## Description
 
-This is a site dedicated to showing off my credentials and accomplishments throughout my career. I have organized and displayed all of the biggest projects I have completed for others to view. If potential future employers like to skills I have to offer, I look forward to discussing business.
+I am a developer who needs to use README files for every project. They are a quick and easy way to introduce someone else to the work I have completed, and how to use them properly. It is also an easy way to have other people get in direct contact with me if they like the work/skills I display. Thus, since I create so many README files for various projects, I created a README generator so I can create them in a fast yet professional manner. Through making this project I have gained a better understanding of node.js and the terminal on VS code. I also added to my knowledge of the different aspects one can add to their README files to make it easier for clients to use.
 
 ## Installation
 
-No installation required
+Install Node.js, and use "inquirer" as a dependency on VS code
 
 ## Usage
 
-The top of my page shows my name, along with links to various completed projects. You can either click on a link to be brought to that destination, or scroll through the page as a whole. If you would like to reach out to me, my contact information is at the bottom of the page.
+This project is a quick and easy way for one to make professional README files for their projects. By opening up the javascript file on the VS terminal, a user will be prompted to answer questions regarding the content they want displayed on their file. Then without any formatting, the project will automatically fill in their answers and create a README with a title, table of contents, various sections of information, and contact info at the bottom. And whether or not it's perfect, one can also just use this as a starting point to add more personalized content for the project as well. Just copy and paste from the file what you want to use, and you will have easily formatted and answered sections at the ready.
 
 ## License
 
-The following license is being used:  MIT
+The following license is being used:  No license required
 
 ## Contributing
 
-I have completed all of the work for this site, and was the main coder for all of the projects that are displayed. I do not need any future help in advancing or completing any of these works.
+NA
 
 ## Tests
 
-I tested my project to make sure it was working by using Node.js and the terminal on Visual Studio Code.
+I tested my project using Node.js and the terminal on Visual Studio Code.
 
 ## Questions
 
